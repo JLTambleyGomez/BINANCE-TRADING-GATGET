@@ -1,0 +1,12 @@
+{
+  "name": "pton-boton",
+  "version": "1.0.0",
+  "description": "simple gatget trading binance",
+  "main": "/index.py",
+  "scripts": {
+    "start": "python index.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Tambley",
+  "license": "ISC"
+}
