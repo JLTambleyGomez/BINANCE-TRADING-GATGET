@@ -1,6 +1,6 @@
 # TradeGatgetBinance
 
-![TradeGatgetBinance Demo](https://res.cloudinary.com/ddectuilp/image/upload/v1692002040/pf_s6njzz.gif)
+![TradeGatgetBinance ](https://res.cloudinary.com/ddectuilp/image/upload/v1692286766/imagen_v0pbs0.png)
 
 Feel free to contribute to its evolution!
 
